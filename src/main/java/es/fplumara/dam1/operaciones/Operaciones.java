@@ -32,8 +32,7 @@ public class Operaciones {
         for (double n : notas) {
             suma += n;
         }
-        return suma / notas.length;
+        return suma;
     }
-
 
 }
